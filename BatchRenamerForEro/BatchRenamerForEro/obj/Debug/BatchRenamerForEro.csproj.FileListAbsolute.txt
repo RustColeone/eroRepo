@@ -1,0 +1,7 @@
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\bin\Debug\BatchRenamerForEro.exe.config
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\bin\Debug\BatchRenamerForEro.exe
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\bin\Debug\BatchRenamerForEro.pdb
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\obj\Debug\BatchRenamerForEro.csprojAssemblyReference.cache
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\obj\Debug\BatchRenamerForEro.csproj.CoreCompileInputs.cache
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\obj\Debug\BatchRenamerForEro.exe
+C:\Users\LeoNgan\source\repos\BatchRenamerForEro\BatchRenamerForEro\obj\Debug\BatchRenamerForEro.pdb
